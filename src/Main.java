@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello HitHub");
 
         System.out.println("new branch new-feature");
+        System.out.println("git status");
     }
 }
